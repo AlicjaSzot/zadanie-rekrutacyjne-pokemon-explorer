@@ -1,4 +1,3 @@
-import React from "react";
 import { usePokemonContext } from "../../context/PokemonContext";
 import styles from "./Filters.module.scss";
 
